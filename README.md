@@ -4,6 +4,8 @@ A macOS background utility that shows draggable window thumbnails for the frontm
 
 ![mac Taskbar Thumbnail Reorder demo](docs/demo.gif)
 
+now, I actually use hammerspoon to realize similar features, not as good as windows, but any ok to use. These tools in this repo I don't really use.
+
 ## Features
 
 | Feature | Description |
